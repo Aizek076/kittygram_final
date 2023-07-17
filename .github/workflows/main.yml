@@ -123,6 +123,7 @@ jobs:
           push: true
           tags: aizek076/kittygram_gateway:latest
 
+
   deploy:
     runs-on: ubuntu-latest
     needs:
