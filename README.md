@@ -1,3 +1,5 @@
+[![.github/workflows/main.yml](https://github.com/Aizek076/kittygram_final/actions/workflows/main.yml/badge.svg)](https://github.com/Aizek076/kittygram_final/actions/workflows/main.yml)
+
 #  Как работать с репозиторием финального задания
 
 ## Что нужно сделать
